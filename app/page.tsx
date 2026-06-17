@@ -78,7 +78,13 @@ export default function Home() {
             aria-label="Product navigation"
             className="flex items-center gap-2 text-[10px] font-semibold uppercase text-[#2f3541] sm:gap-3"
           >
-            <a href="https://emplelife-ghana.vercel.app/">LIFE</a>
+            <a
+              href="https://emplelife-ghana.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              LIFE
+            </a>
             <a href="#">HEALTH</a>
             <a href="#">PENSIONS</a>
           </nav>
